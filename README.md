@@ -1,6 +1,6 @@
 # Subnetwork Selection Results
 
-This repository contains the subnetwork selection results for our letter "Subnetwork-specific distributed speech enhancement for multiple sources using acoustic sensor networks".
+This repository contains the subnetwork selection results for our letter ***"Subnetwork-specific distributed speech enhancement for multiple sources using acoustic sensor networks"***.
 
 In each subnet heading, `Anchor Node: A` identifies the anchor node of that subnet, while `Src S` identifies the target source to be enhanced by the subnet. For example, `>> Subnet 1 (Anchor Node: 12, Src 1)` means that Node 12 is the anchor node of Subnet 1 and Source 1 is the source enhanced by that subnet.
 
